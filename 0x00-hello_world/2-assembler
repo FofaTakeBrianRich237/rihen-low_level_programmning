@@ -1,0 +1,4 @@
+#!/bin/sh
+
+gcc -S -o main.s main.c
+

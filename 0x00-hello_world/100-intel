@@ -1,0 +1,4 @@
+#!/bin/sh
+
+gcc -S -masm=intel -o main.s main.c
+

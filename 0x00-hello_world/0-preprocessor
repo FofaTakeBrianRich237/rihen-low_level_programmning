@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gcc -E -o c main.c
